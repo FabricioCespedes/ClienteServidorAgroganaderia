@@ -1,0 +1,6 @@
+C:\Users\Fabricio\Desktop\Progra Avanzada\FabricioCespedesDelgadoProyecto\Libreria\Libreria\bin\Debug\Libreria.dll
+C:\Users\Fabricio\Desktop\Progra Avanzada\FabricioCespedesDelgadoProyecto\Libreria\Libreria\bin\Debug\Libreria.pdb
+C:\Users\Fabricio\Desktop\Progra Avanzada\FabricioCespedesDelgadoProyecto\Libreria\Libreria\obj\Debug\Libreria.csprojAssemblyReference.cache
+C:\Users\Fabricio\Desktop\Progra Avanzada\FabricioCespedesDelgadoProyecto\Libreria\Libreria\obj\Debug\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\Fabricio\Desktop\Progra Avanzada\FabricioCespedesDelgadoProyecto\Libreria\Libreria\obj\Debug\Libreria.dll
+C:\Users\Fabricio\Desktop\Progra Avanzada\FabricioCespedesDelgadoProyecto\Libreria\Libreria\obj\Debug\Libreria.pdb

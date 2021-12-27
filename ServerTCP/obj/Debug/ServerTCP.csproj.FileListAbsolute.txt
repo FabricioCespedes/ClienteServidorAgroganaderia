@@ -1,0 +1,74 @@
+C:\Users\Aguzzi\source\repos\ServerTCP\bin\Debug\ServerTCP.exe.config
+C:\Users\Aguzzi\source\repos\ServerTCP\bin\Debug\ServerTCP.exe
+C:\Users\Aguzzi\source\repos\ServerTCP\bin\Debug\ServerTCP.pdb
+C:\Users\Aguzzi\source\repos\ServerTCP\obj\Debug\ServerTCP.csprojAssemblyReference.cache
+C:\Users\Aguzzi\source\repos\ServerTCP\obj\Debug\ServerTCP.Form1.resources
+C:\Users\Aguzzi\source\repos\ServerTCP\obj\Debug\ServerTCP.Properties.Resources.resources
+C:\Users\Aguzzi\source\repos\ServerTCP\obj\Debug\ServerTCP.csproj.GenerateResource.cache
+C:\Users\Aguzzi\source\repos\ServerTCP\obj\Debug\ServerTCP.csproj.CoreCompileInputs.cache
+C:\Users\Aguzzi\source\repos\ServerTCP\obj\Debug\ServerTCP.exe
+C:\Users\Aguzzi\source\repos\ServerTCP\obj\Debug\ServerTCP.pdb
+C:\Users\Fabricio\Desktop\Clases\repos 3\ServerTCP\bin\Debug\ServerTCP.exe.config
+C:\Users\Fabricio\Desktop\Clases\repos 3\ServerTCP\bin\Debug\ServerTCP.exe
+C:\Users\Fabricio\Desktop\Clases\repos 3\ServerTCP\bin\Debug\ServerTCP.pdb
+C:\Users\Fabricio\Desktop\Clases\repos 3\ServerTCP\obj\Debug\ServerTCP.csprojAssemblyReference.cache
+C:\Users\Fabricio\Desktop\Clases\repos 3\ServerTCP\obj\Debug\ServerTCP.Form1.resources
+C:\Users\Fabricio\Desktop\Clases\repos 3\ServerTCP\obj\Debug\ServerTCP.Properties.Resources.resources
+C:\Users\Fabricio\Desktop\Clases\repos 3\ServerTCP\obj\Debug\ServerTCP.csproj.GenerateResource.cache
+C:\Users\Fabricio\Desktop\Clases\repos 3\ServerTCP\obj\Debug\ServerTCP.csproj.CoreCompileInputs.cache
+C:\Users\Fabricio\Desktop\Clases\repos 3\ServerTCP\obj\Debug\ServerTCP.exe
+C:\Users\Fabricio\Desktop\Clases\repos 3\ServerTCP\obj\Debug\ServerTCP.pdb
+C:\Users\Fabricio\Desktop\Clases\repos 3\ServerTCP\obj\Debug\ServerTCP.Vistas.RegistrarAnimal.resources
+C:\Users\Fabricio\Desktop\Clases\repos 3\ServerTCP\obj\Debug\ServerTCP.Vistas.VistaRegistrarDuenio.resources
+C:\Users\Fabricio\Desktop\Clases\repos 3\ServerTCP\obj\Debug\ServerTCP.Vistas.VistaRegistrarEmpleado.resources
+C:\Users\Fabricio\Desktop\Clases\repos 3\ServerTCP\obj\Debug\ServerTCP.Vistas.VistaRegistrarFinca.resources
+C:\Users\Fabricio\Desktop\Clases\repos 3\ServerTCP\obj\Debug\ServerTCP.Vistas.VistaRegistrarRaza.resources
+C:\Users\Fabricio\Desktop\Clases\repos 3\ServerTCP\obj\Debug\ServerTCP.Vistas.VistaValidarUsuario.resources
+C:\Users\Fabricio\Desktop\repos 3\repos 3\ServerTCP\obj\Debug\ServerTCP.csprojAssemblyReference.cache
+C:\Users\Fabricio\Desktop\repos 3\repos 3\ServerTCP\obj\Debug\ServerTCP.Form1.resources
+C:\Users\Fabricio\Desktop\repos 3\repos 3\ServerTCP\obj\Debug\ServerTCP.Properties.Resources.resources
+C:\Users\Fabricio\Desktop\repos 3\repos 3\ServerTCP\obj\Debug\ServerTCP.Vistas.RegistrarAnimal.resources
+C:\Users\Fabricio\Desktop\repos 3\repos 3\ServerTCP\obj\Debug\ServerTCP.Vistas.VistaRegistrarDuenio.resources
+C:\Users\Fabricio\Desktop\repos 3\repos 3\ServerTCP\obj\Debug\ServerTCP.Vistas.VistaRegistrarEmpleado.resources
+C:\Users\Fabricio\Desktop\repos 3\repos 3\ServerTCP\obj\Debug\ServerTCP.Vistas.VistaRegistrarFinca.resources
+C:\Users\Fabricio\Desktop\repos 3\repos 3\ServerTCP\obj\Debug\ServerTCP.Vistas.VistaRegistrarRaza.resources
+C:\Users\Fabricio\Desktop\repos 3\repos 3\ServerTCP\obj\Debug\ServerTCP.Vistas.VistaValidarUsuario.resources
+C:\Users\Fabricio\Desktop\repos 3\repos 3\ServerTCP\obj\Debug\ServerTCP.csproj.GenerateResource.cache
+C:\Users\Fabricio\Desktop\repos 3\repos 3\ServerTCP\obj\Debug\ServerTCP.csproj.CoreCompileInputs.cache
+C:\Users\Fabricio\Desktop\repos 3\repos 3\ServerTCP\obj\Debug\ServerTCP.exe
+C:\Users\Fabricio\Desktop\repos 3\repos 3\ServerTCP\obj\Debug\ServerTCP.pdb
+C:\Users\Fabricio\Desktop\repos 3\repos 3\ServerTCP\bin\Debug\ServerTCP.exe.config
+C:\Users\Fabricio\Desktop\repos 3\repos 3\ServerTCP\bin\Debug\ServerTCP.exe
+C:\Users\Fabricio\Desktop\repos 3\repos 3\ServerTCP\bin\Debug\ServerTCP.pdb
+C:\Users\parra\Downloads\repos 3\repos 3\repos 3\ServerTCP\bin\Debug\ServerTCP.exe.config
+C:\Users\parra\Downloads\repos 3\repos 3\repos 3\ServerTCP\bin\Debug\ServerTCP.exe
+C:\Users\parra\Downloads\repos 3\repos 3\repos 3\ServerTCP\bin\Debug\ServerTCP.pdb
+C:\Users\parra\Downloads\repos 3\repos 3\repos 3\ServerTCP\obj\Debug\ServerTCP.csprojAssemblyReference.cache
+C:\Users\parra\Downloads\repos 3\repos 3\repos 3\ServerTCP\obj\Debug\ServerTCP.Form1.resources
+C:\Users\parra\Downloads\repos 3\repos 3\repos 3\ServerTCP\obj\Debug\ServerTCP.Properties.Resources.resources
+C:\Users\parra\Downloads\repos 3\repos 3\repos 3\ServerTCP\obj\Debug\ServerTCP.Vistas.RegistrarAnimal.resources
+C:\Users\parra\Downloads\repos 3\repos 3\repos 3\ServerTCP\obj\Debug\ServerTCP.Vistas.VistaRegistrarDuenio.resources
+C:\Users\parra\Downloads\repos 3\repos 3\repos 3\ServerTCP\obj\Debug\ServerTCP.Vistas.VistaRegistrarEmpleado.resources
+C:\Users\parra\Downloads\repos 3\repos 3\repos 3\ServerTCP\obj\Debug\ServerTCP.Vistas.VistaRegistrarFinca.resources
+C:\Users\parra\Downloads\repos 3\repos 3\repos 3\ServerTCP\obj\Debug\ServerTCP.Vistas.VistaRegistrarRaza.resources
+C:\Users\parra\Downloads\repos 3\repos 3\repos 3\ServerTCP\obj\Debug\ServerTCP.Vistas.VistaValidarUsuario.resources
+C:\Users\parra\Downloads\repos 3\repos 3\repos 3\ServerTCP\obj\Debug\ServerTCP.csproj.GenerateResource.cache
+C:\Users\parra\Downloads\repos 3\repos 3\repos 3\ServerTCP\obj\Debug\ServerTCP.csproj.CoreCompileInputs.cache
+C:\Users\parra\Downloads\repos 3\repos 3\repos 3\ServerTCP\obj\Debug\ServerTCP.exe
+C:\Users\parra\Downloads\repos 3\repos 3\repos 3\ServerTCP\obj\Debug\ServerTCP.pdb
+C:\Users\Fabricio\Desktop\ProyectoAvanzada\ServerTCP\bin\Debug\ServerTCP.exe.config
+C:\Users\Fabricio\Desktop\ProyectoAvanzada\ServerTCP\bin\Debug\ServerTCP.exe
+C:\Users\Fabricio\Desktop\ProyectoAvanzada\ServerTCP\bin\Debug\ServerTCP.pdb
+C:\Users\Fabricio\Desktop\ProyectoAvanzada\ServerTCP\obj\Debug\ServerTCP.csprojAssemblyReference.cache
+C:\Users\Fabricio\Desktop\ProyectoAvanzada\ServerTCP\obj\Debug\ServerTCP.Form1.resources
+C:\Users\Fabricio\Desktop\ProyectoAvanzada\ServerTCP\obj\Debug\ServerTCP.Properties.Resources.resources
+C:\Users\Fabricio\Desktop\ProyectoAvanzada\ServerTCP\obj\Debug\ServerTCP.Vistas.RegistrarAnimal.resources
+C:\Users\Fabricio\Desktop\ProyectoAvanzada\ServerTCP\obj\Debug\ServerTCP.Vistas.VistaRegistrarDuenio.resources
+C:\Users\Fabricio\Desktop\ProyectoAvanzada\ServerTCP\obj\Debug\ServerTCP.Vistas.VistaRegistrarEmpleado.resources
+C:\Users\Fabricio\Desktop\ProyectoAvanzada\ServerTCP\obj\Debug\ServerTCP.Vistas.VistaRegistrarFinca.resources
+C:\Users\Fabricio\Desktop\ProyectoAvanzada\ServerTCP\obj\Debug\ServerTCP.Vistas.VistaRegistrarRaza.resources
+C:\Users\Fabricio\Desktop\ProyectoAvanzada\ServerTCP\obj\Debug\ServerTCP.Vistas.VistaValidarUsuario.resources
+C:\Users\Fabricio\Desktop\ProyectoAvanzada\ServerTCP\obj\Debug\ServerTCP.csproj.GenerateResource.cache
+C:\Users\Fabricio\Desktop\ProyectoAvanzada\ServerTCP\obj\Debug\ServerTCP.csproj.CoreCompileInputs.cache
+C:\Users\Fabricio\Desktop\ProyectoAvanzada\ServerTCP\obj\Debug\ServerTCP.exe
+C:\Users\Fabricio\Desktop\ProyectoAvanzada\ServerTCP\obj\Debug\ServerTCP.pdb
